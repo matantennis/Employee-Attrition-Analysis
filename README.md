@@ -153,10 +153,12 @@ The results therefore demonstrate the importance of distinguishing between assoc
 Employee-Attrition-Analysis/
 │
 ├── README.md
-└── StatisticalTheoryFinalCode (1).ipynb
+├── StatisticalTheoryFinalCode (1).ipynb
+└── Employee_Attrition_Analysis.pdf
 ```
 
-`StatisticalTheoryFinalCode (1).ipynb` contains the complete statistical analysis, statistical tests, model development, diagnostic checks, visualizations, and final model evaluation.
+- [`StatisticalTheoryFinalCode (1).ipynb`](./StatisticalTheoryFinalCode%20%281%29.ipynb) — complete reproducible statistical analysis and model evaluation.
+- [`Employee_Attrition_Analysis.pdf`](./Employee_Attrition_Analysis.pdf) — final research article.
 
 ## How to Run the Analysis
 
