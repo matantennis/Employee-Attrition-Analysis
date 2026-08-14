@@ -13,9 +13,9 @@ This project was conducted as part of the **Statistical Theory Course**. The obj
 
 The analysis examines three main hypotheses:
 
-1. Selected numerical and ordinal employee characteristics differ between employees who leave the organization and employees who remain.
-2. Selected categorical employee and workplace characteristics are associated with attrition status.
-3. Selected employee characteristics retain significant associations with attrition after simultaneous adjustment for other predictors in a multivariable logistic regression model.
+1. There are significant differences in quantitative and ordinal employee metrics (e.g., age, monthly income, tenure, and distance from home) between employees who voluntarily resign and those who remain in the organization.
+2. Categorical employee and workplace attributes (e.g., job role, overtime status, and stock option level) are significantly associated with employee attrition.
+3. Workplace and employee characteristics (specifically overtime work, job role, and stock option levels) remain independent predictors of employee attrition when controlling for confounding factors in a multivariable logistic regression model, with the effect of overtime being moderated by income level
 
 ## Dataset
 
