@@ -34,7 +34,9 @@ In the analyzed dataset:
 
 The dataset is downloaded automatically within the notebook using the `kagglehub` package from the Kaggle dataset:
 
-`pavansubhasht/ibm-hr-analytics-attrition-dataset`
+[IBM HR Analytics Employee Attrition & Performance Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+
+Kaggle dataset identifier: `pavansubhasht/ibm-hr-analytics-attrition-dataset`
 
 The notebook then loads:
 
